@@ -1,0 +1,1 @@
+Hello! My name is Francisco and this is my Programming Project in C. This was my first project and I'm super proud! Please check it out and if you have any doubts or issues just send a message or open a Issue on this repo. Thank you <3 
